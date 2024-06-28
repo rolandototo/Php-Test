@@ -12,7 +12,7 @@ La prueba general se divide en pequeños ejercicios con los cuales se evaluará 
 
 Se debe manejar POO (Programación Orientada  a Objetos), por lo que deberás crear una clase y esta a su vez debe contener los métodos.
 
-Finalizada la prueba recuerda enviar link del proyecto o tu repositorio a [desarrollo@leangasoftware.es](mailto:desarrollo@leangasoftware.es) con tu información de contacto y en el asunto colocar: PHP-INTERVIEW
+Finalizada la prueba recuerda enviar link del proyecto o tu repositorio a la persona de recursos humans que te contacto con tu información de contacto y en el asunto colocar: PHP-INTERVIEW
 
 
 > Recomendación: No importa terminar todos los ejercicios, lo más importante es la funcionalidad del ejercicio resuelto(s).
