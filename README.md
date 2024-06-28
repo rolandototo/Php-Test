@@ -1,6 +1,6 @@
 # Entrevista PHP
 
-![](https://ienrformacion.es/wp-content/uploads/2019/01/php-codigo-logo.jpg)
+
 
 Bienvenido a tu prueba de __PHP__, a continuación encontrarás una serie de requerimientos con los cuales deberás realizar un ejercicio práctico.
 
@@ -31,7 +31,7 @@ __HABILIDADES:__
 PHP, MYSQL
 ```
 __PROBLEMA:__
-> El siguiente [archivo (.csv)](https://gist.github.com/leifermendez/627650290d3edaeb420eef50395da73f) contiene una seria de datos relacionados con el comercio inmobiliario. Ejemplo (Dirección del piso, Metros cuadrados, Características, entre otros)
+> El siguiente [archivo (.csv)](https://github.com/rolandototo/Php-Test/blob/main/resource_accommodation.csv) contiene una seria de datos relacionados con el comercio inmobiliario. Ejemplo (Dirección del piso, Metros cuadrados, Características, entre otros)
 
 __REQUERIMIENTO:__
 El objetivo principal es crear un método en la clase, al cual se indique la ruta del archivo y esta sea capaz de leer el (.csv) e insertar los valores en una base de datos MySQL.
