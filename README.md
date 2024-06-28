@@ -66,7 +66,7 @@ __PROBLEMA:__
 __REQUERIMIENTO:__
 Se necesita una función en la cual se pasen 3 atributos (Latitud, Longitud, Distancia km), y está retorne el precio promedio del metro cuadrado.
 
-![](https://i.stack.imgur.com/U1c9F.png)
+![.](https://i.stack.imgur.com/U1c9F.png)
 
 
 ### 4. Reportes data.
