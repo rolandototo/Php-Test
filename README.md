@@ -19,7 +19,7 @@ Finalizada la prueba recuerda enviar link del proyecto o tu repositorio a [desar
 
 ### Antes de empezar:
 - Se necesita una base de datos MySQL.
-- [Archivos CSV](https://gist.github.com/leifermendez/627650290d3edaeb420eef50395da73f)
+- [Archivos CSV](https://github.com/rolandototo/Php-Test/blob/main/resource_accommodation.csv)
 
 
 # Ejercicios
